@@ -1,4 +1,3 @@
-// Step 1: Array of book objects
 const books = [
     { title: "The Hobbit", author: "J.R.R. Tolkien", year: 1937 },
     { title: "To Kill a Mockingbird", author: "Harper Lee", year: 1960 },
